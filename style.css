@@ -69,7 +69,7 @@
 	height: auto;
 	color: white;
 	background-color: deeppink;
-	background-image: url('...');
+	background-image: url('./image/about-image.jpg');
 	background-size: contain ;
 	background-repeat: no-repeat;
 	background-position: center;
