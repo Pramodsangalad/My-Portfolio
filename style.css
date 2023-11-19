@@ -82,7 +82,7 @@
 	justify-content: center;
 }
 .about-profile{
-	/* background-image:url('http://fklavye.net/media/images/rbozdag/profile.png'); */
+	background-image:url('http://fklavye.net/media/images/rbozdag/profile.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
