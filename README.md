@@ -13,6 +13,7 @@
 
 # EXPERIENCE
 ## Full Stact Inter | Agile iTECH, Hubli (Oct’23-Nov’23)
+
 As a Full Stack Intern at Agile iTECH, I developed web applications using HTML, CSS, JAVASCRIPT, 
 NODE.JS and MYSQL, collaborating with a team to ensure optimal performance and user experience 
 
@@ -34,15 +35,19 @@ achieving improved stability and performance..
 # POSITION OF RESPONSIBILITY 
 ## Co-Ordinator | Class, AGM Rural college of Engg & Technology, Varur (June’22-April’23)
 ## Co-Ordinator | Placement, AGM Rural college of Engg & Technology, Varur (April’23-Present)
+
 Organized hackathons & conducted sessions for 300+ college students on Web Development related 
 topics. 
 
 # ACHIEVEMENTS 
 ## 1st Place in IDEATHON 
+
 State Level Project Exhibition: Presenting an innovation project on “SMART AGRI REVOLUTION IN 
 INDIA” Among the top 15 Finalist in a State level project exhibition and delivered a paper presentation 
 showcasing expertise and contribution to the field.
+
 ## Srishti Project 2k24 
+
  National Level Project Exhibition: Successfully participated in a prestigious national-level project exhibition, 
 presenting an innovative project on " AUTOMATIC LPG GAS LEAKAGE DETECTION WITH CYLINDER 
 VALVE OFF SYSTEM." Demonstrated expertise in IoT, data analytics, and automated systems, showcasing 
