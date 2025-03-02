@@ -13,6 +13,7 @@
 
 # EXPERIENCE
 ## Full Stact Inter | Agile iTECH, Hubli (Oct’23-Nov’23)
+## Student Ambassador | Rooman Technologies (Nov'24-Present)
 
 As a Full Stack Intern at Agile iTECH, I developed web applications using HTML, CSS, JAVASCRIPT, 
 NODE.JS and MYSQL, collaborating with a team to ensure optimal performance and user experience 
