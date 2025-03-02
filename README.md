@@ -35,7 +35,7 @@ achieving improved stability and performance..
 # POSITION OF RESPONSIBILITY 
 ## Co-Ordinator | Class, AGM Rural college of Engg & Technology, Varur (June’22-April’23)
 ## Co-Ordinator | Placement, AGM Rural college of Engg & Technology, Varur (July’23- April'24)
-### Vice President | ECE Dept. AGM Rural College of Enginnering and Technology, Varur ( July'24-Present)
+## Vice President | ECE Dept. AGM Rural College of Enginnering and Technology, Varur ( July'24-Present)
 
 Organized hackathons & conducted sessions for 300+ college students on Web Development related 
 topics. 
