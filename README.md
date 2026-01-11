@@ -8,7 +8,7 @@
 - Simulation tools: Cadence Virtuoso, Vivado 
 
 # EDUCATION
-- EC Engineering | AGM Rural college of Engg & Technology,Varur CGPA: 8.68 | (Oct’21-present)
+- EC Engineering | AGM Rural college of Engg & Technology,Varur CGPA: 8.68 | (Oct’21-Mar’25)
 - XII (CBSE) | Govt. PU Science College, Gopankoppa 78.4%| 2021
 
 # EXPERIENCE
@@ -16,7 +16,7 @@
 As a Full Stack Intern at Agile iTECH, I developed web applications using HTML, CSS, JAVASCRIPT, 
 NODE.JS and MYSQL, collaborating with a team to ensure optimal performance and user experience 
 
-## Student Ambassador | Rooman Technologies (Nov'24-Present)
+## Student Ambassador | Rooman Technologies (Jun'24-Mar'25)
 
 # ACADEMIC PROJECTS
 ## Real time Temperature and Humidity Monitoring using the DHT11 Sensor & Arduino IoT 
@@ -36,7 +36,7 @@ achieving improved stability and performance..
 # POSITION OF RESPONSIBILITY 
 ## Co-Ordinator | Class, AGM Rural college of Engg & Technology, Varur (June’22-April’23)
 ## Co-Ordinator | Placement, AGM Rural college of Engg & Technology, Varur (July’23- April'24)
-## Vice President | ECE Dept. AGM Rural College of Enginnering and Technology, Varur ( July'24-Present)
+## Vice President | ECE Dept. AGM Rural College of Enginnering and Technology, Varur ( July'24-Mar'24)
 
 Organized hackathons & conducted sessions for 300+ college students on Web Development related 
 topics. 
