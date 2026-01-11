@@ -3,9 +3,7 @@
 - Verilog HDL 
 - HTML, CSS, JavaScript 
 - Matlab, Embedded C 
-- RTL Design using Verilog 
-- UVM 
-- Simulation tools: Cadence Virtuoso, Vivado 
+- Java, Hibernet, JDBC
 
 # EDUCATION
 - EC Engineering | AGM Rural college of Engg & Technology,Varur CGPA: 8.68 | (Oct’21-Mar’25)
